@@ -60,4 +60,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ![Diagrama de casos de uso](img/Diagrama_casos_de_uso.png)
 
 ## Projeto da Base de Dados (se aplicável)
-![DER Banco](img/documentos/img/DER.jpeg)
+![DER Banco](img/DER.jpeg)
