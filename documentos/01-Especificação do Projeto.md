@@ -51,32 +51,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | Descrição do Requisito |
 |-------------------------|
-| O sistema deve ser responsivo para rodar em um dispositivos móvel |
-| Deve processar requisições do usuário em no máximo 3s |
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+| RNF01 O sistema deverá utilizar a api de busca de CEPS disponibilizada pelo correios, para os cadastros do endereço dos alunos e professores;  |
+| RNF02 O sistema deverá gravar em arquivo LOG quem é a pessoa responsável pelo cadastro daquele aluno.;   |
+| RNF03 O sistema deverá ser responsivo;  |
+| RNF04 O sistema deverá usar a api do WhatsApp para que, quando o professor clique no botão “Enviar cadastro de ficha” automaticamente seja gerada uma mensagem como “Contagem Ativa - Faça seu cadastro” para o professor enviar ao novo aluno.  |
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
-
-## Diagrama UML
-
-Apresente os diagramas UML de maior importância do projeto (exceto os de caso de uso, que serão apresentados no tópico acima).
-
-> **Links Úteis**:
-> - [Diagrama UML](https://www.lucidchart.com/pages/pt/o-que-e-uml)
 
 ## Projeto da Base de Dados (se aplicável)
 
