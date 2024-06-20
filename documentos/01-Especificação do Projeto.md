@@ -27,8 +27,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | Descrição do Requisito | 
 |-----------------------------------------|
-| Permitir que o usuário cadastre tarefas |
-| Emitir um relatório de tarefas no mês  |
+|RF01 O sistema deverá ter um menu de cadastro de alunos que deverá permitir a consulta de um aluno, pelo nome/sobrenome ou CPF. |
+|RF02 O sistema deverá ter uma opção de ordenação da lista de alunos e professores tanto em ordem crescente quanto em ordem decrescente (para que fique a escolha do usuário a forma de ordenação que preferir); |
+|RF03 O sistema deverá ter a opção de acessibilidade (visual, auditiva, etc.) para que possa atender ser acessível a todos os alunos |
+|RF04 O sistema deve na tela inicial ter uma espécie de “Cards de Acesso rápido”, nos quais deverão ter as opções “Cadastro de Alunos”, “Cadastro de Professores” e outras que julgarem importantes para manter nesse menu. |
+|RF05 O sistema deverá ter um menu de cadastro de professores que deverá permitir a consulta de um professor, pelo nome/sobrenome e as. |
+|RF06 O sistema deverá ter uma opção de ordenação da lista tanto em ordem crescente quanto em ordem decrescente nos menus de Cadastro de Alunos e Cadastro de Professores (para que fique a escolha do usuário a forma de ordenação que preferir); |
+|RF07 O sistema deverá ter um campo para colocar o cargo da pessoa (professor, instrutor ou estagiário) |
+|RF08 O sistema deverá, no menu de cadastros de alunos, ter um campo para que o aluno informe quais medicações está tomando. Esse campo deverá ficar visível na listagem de cadastros (sem precisar entrar dentro do cadastro do aluno, pode ser identificado talvez com uma pílula, ou com uma agulha no caso de medicamentos injetáveis) |
+|RF09 O sistema deverá, no menu de cadastros de alunos, ter um campo para que o aluno informe pelo menos dois contatos de emergência. |
+|RF10 O sistema deverá ter um botão no início e no cadastro de alunos com a nomenclatura “Enviar cadastro de ficha” |
+|RF11 No menu de cadastro de professores, deve ter um campo onde ele poderá se vincular a modalidades que ele tem mais experiencia (uma vez que se o professor tiver CREF ele pode dar aula em qualquer modalidade consideraremos que ele poderá escolher as que ele tem mais experiencia ou se sinta melhor lecionando) |
+|RF12 O sistema deverá ter um campo para filtrar os professores através das regionais e modalidades em que eles estão vinculados. |
+|RF13 O sistema deverá ter uma opção de filtro de professores a partir das modalidades. Ex: Modalidade Natação, tem esses professores que tem experiencia. |
+|RF14 O sistema deverá, ter um menu “Gráficos” e nele, deverá ter um relatório “Idade média por regional” onde nesse gráfico o coordenador conseguirá ver a média da idade dos alunos. |
+|RF15 Adicionar um gráfico no modelo pizza para essa análise e quando ele for passando o mouse no gráfico, informar qual porcentagem corresponde aquela faixa etária e sua respectiva quantidade; |
+|RF016 O sistema deverá, ter um menu “Gráficos” e nele, deverá ter um relatório “Idade média dos Alunos” onde nesse gráfico o coordenador conseguirá ver a média da idade dos alunos inscritos no programa Contagem Ativa. |
+|RF17 Na tela inicial do sistema, deverá estar exposto três guias, “Regional” “Polo” e “Modalidade”, na medida que o aluno selecionar uma Regional, por exemplo, fazer um filtro que mostre os polos daquela regional, depois que ele selecionar o polo, mostrar as modalidades disponíveis e horários; caso ele selecione somente a modalidade, fazer o processo inverso, onde, ele informa a modalidade e são mostradas as informações de polo e regional que contemplam aquela modalidade. |
+|RF18 O sistema deverá ter uma funcionalidade de Pesquisa de satisfação; |
+|RF19 O sistema deverá ter um local para que os alunos possam colocar Sugestões, solicitações, etc.; |
 
 ### Requisitos não Funcionais
 
