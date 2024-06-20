@@ -57,8 +57,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF04 O sistema deverá usar a api do WhatsApp para que, quando o professor clique no botão “Enviar cadastro de ficha” automaticamente seja gerada uma mensagem como “Contagem Ativa - Faça seu cadastro” para o professor enviar ao novo aluno.  |
 
 ## Diagrama de Casos de Uso
-
+![Diagrama de casos de uso](img/Diagrama_casos_de_uso.png)
 
 ## Projeto da Base de Dados (se aplicável)
-
-O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
+![DER Banco](img/documentos/img/DER.jpeg)
