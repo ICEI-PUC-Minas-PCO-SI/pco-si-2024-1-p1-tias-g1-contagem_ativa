@@ -44,6 +44,6 @@ Como se trata de uma aplicação web, não é necessária a instalação de nenh
 
 <li><a href="codigo-fonte/README.md"> Código Fonte</a></li>
 
-# Apresentação
+# Relatório contendo a solução
 
 <li><a href="apresentacao/README.md"> Apresentação da solução</a></li>
